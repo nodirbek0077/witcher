@@ -46,13 +46,8 @@
   
   <footer>
     <div class="container">
-      <p>&copy; 2023 Witcher 3 Website. All rights reserved.</p>
-    </div>
-  </footer>
-</body>
-</html>
-/* General Styles */
-body {
+      <style>
+        body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -107,3 +102,11 @@ body {
     text-align: center;
   }
   
+
+      </style>
+      <p>&copy; 2023 Witcher 3 Website. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
+/* General Styles */
